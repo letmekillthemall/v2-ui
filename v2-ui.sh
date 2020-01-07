@@ -406,9 +406,7 @@ show_usage() {
 show_menu() {
     echo -e "
   ${green}v2-ui 面板管理脚本${plain} ${red}${version}${plain}
-
 --- https://blog.sprov.xyz/v2-ui ---
-
   ${green}0.${plain} 退出脚本
 ————————————————
   ${green}1.${plain} 安装 v2-ui
